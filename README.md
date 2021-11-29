@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kannicha
 - 👀 I’m interested in Web Developer and more
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and Computer vision
 - 💞️ I’m looking to collaborate on Metaverse
 - 📫 How to reach me > email : kannicha.knc@g.swu.ac.th
 

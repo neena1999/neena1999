@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @neena1999
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Kannicha
+- 👀 I’m interested in Web Developer and more
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on Metaverse
+- 📫 How to reach me > email : kannicha.knc@g.swu.ac.th
 
 <!---
 neena1999/neena1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
